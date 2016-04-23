@@ -37,3 +37,4 @@ docker logs demo-app
 Open http://localhost:8080 in browser and you should see the message. If you are using Boot2Docker in Mac OSX, 
 find ip by *boot2docker ip* and replace _localhost_ to _boot2docker ip_.
 
+.
